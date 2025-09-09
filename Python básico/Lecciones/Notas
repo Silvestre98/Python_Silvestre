@@ -1,0 +1,44 @@
+Clases a revisar:
+
+    * Manejo de excepciones
+    * Manejo de archivos (txt, csv, json, xml)
+    * Conexión a bases de datos con MySQL
+    * Pandas, Numpy, Jupyter y Polar    
+    * Funciones lambda + funciones de orden superior (map, filter, reduce, zip, enumerate)
+    * Manejo de paquetes y entornos virtuales (pip, venv, poetry, conda)
+    * Uso de 'with'
+    * Profundizando en Tuplas, Sets, Diccionarios, Funciones
+    * Procesar Documentos JSON
+    * Tips y Tricks I - IV
+
+
+
+📊 Si quieres ir a Data / Análisis
+
+Pandas: manipulación de datos tabulares.
+NumPy: operaciones numéricas y algebra lineal.
+Jupyter Notebooks: el “cuaderno de trabajo” estándar en ciencia de datos.
+Polars (más moderno que Pandas, súper rápido).
+
+
+🗄️ Si quieres ir a Backend / Aplicaciones
+
+Bases de datos (MySQL, PostgreSQL, SQLite):
+Conexión, CRUD, queries.
+APIs (requests, FastAPI, Flask): aprender a consumir y crear APIs.
+Testing (unittest, pytest): pruebas unitarias.
+Buenas prácticas (PEP8, logging, typing): código mantenible.
+
+
+⚡ Recomendación de orden (práctico y estratégico)
+
+Yo lo vería así:
+Manejo de excepciones ✅
+Manejo de archivos + uso de with ✅
+Procesar JSON ✅
+Funciones lambda y funciones built-in avanzadas (map, filter, zip, enumerate)
+Profundizar en estructuras y funciones (optimizaciones, trucos, comprehensions avanzadas)
+Conexión a bases de datos (MySQL/PostgreSQL/SQLite)
+Según tu interés:
+Data → Pandas, NumPy, Jupyter, Polars
+Backend → Flask/FastAPI + DB + manejo de APIs

@@ -1,0 +1,17 @@
+Crear un programa con que me permita saber el Área de un cuadrado y un rectangulo, así como su color
+se deberá usar el encapsulamiento de cada unos de los atributos que lo requieran,
+asi como el método magico de __str__.
+CLASES:
+_____________________________________________________________________________________________
+FIGURA GEOMETRICA   |       COLOR               |       CUADRADO        |   RECTANGULO      |
+Atributos           |       Atributos           |       Atributos       |   Atributos       |
+    alto            |           Color           |           lado        |       ancho       |
+    ancho           |       Encapsulamiento     |       Métodos         |       alto        |
+Métodos             |           get Color       |           __str__     |   Métodos         |
+    __str__         |           set Color       |            área       |       __str__     |
+Encapsulamiento     |                           |                       |        área       |
+    get alto        |                           |                       |                   |
+    set alto        |                           |                       |                   |
+    get ancho       |                           |                       |                   |
+    set ancho       |                           |                       |                   |
+---------------------------------------------------------------------------------------------

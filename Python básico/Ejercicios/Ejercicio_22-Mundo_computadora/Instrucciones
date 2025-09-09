@@ -1,0 +1,49 @@
+Crear una aplicación con el objetivo de vender computadoras, en este proyecto tendremos 5 tipos diferentes de clases
+que serán:
+    + Computadora
+    + Monitor
+    + Orden
+    + Raton
+    + Teclado
+    + DispositivoEntrada
+Métodos y atributos de cada una de las clases:
+
+ORDEN:
+    contador_ordenes
+    id_ordenes
+    computadora:list
+    agregar_computadora()
+    __str__()
+
+COMPUTADORA:
+    contador_computadora
+    Id_computadora
+    nombre
+    monitor:Monitor
+    teclado:Teclado
+    raton:Raton
+
+MONITOR:
+    contador_monitores
+    id_monitor
+    marca
+    tamaño
+    __init__
+    __str__
+
+DISPOSITIVO ENTRADA
+    marca
+    tipo_entrada
+
+RATON
+    contador_ratones
+    id_raton
+    __init__
+    __str__
+
+TECLADO
+    contador_teclado
+    id_teclado
+    __init__
+    __str__
+

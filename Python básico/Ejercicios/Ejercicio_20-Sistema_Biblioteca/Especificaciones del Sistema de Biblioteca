@@ -1,0 +1,30 @@
+OBJETIVO:
+Se deben de crear un sistema de biblioteca usando la programación orientada a objetos.
+
+CLASE LIBRO
+
+Cada objeto de biblioteca debe almacenar libros.
+Atributos de la clase libro:
+    + Autor
+    + Título
+    + Género
+Debe aplicar el concepto de encapsulamiento.
+
+CLASE BIBLIOTECA
+
+Por otro lado una biblioteca contiene un nombre asi como una lista de libros
+Atributos de la clase biblioteca:
+    + Nombre
+    + Lista de libros
+
+Además tiene los siguientes métodos para administrar los libros:
+    + Agregar libros
+    + Buscar libro por autor
+    + Buscar libro por género
+    + Buscar libro por titulo
+    + Mostrar todos los libros
+    + Eliminar libro
+
+Además debe aplicar encapsulamiento a esta clase
+
+Por último se debe crear un script para poner a prueba las clases creadas.

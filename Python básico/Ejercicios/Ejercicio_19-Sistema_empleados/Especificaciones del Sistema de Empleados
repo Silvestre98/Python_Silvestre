@@ -1,0 +1,9 @@
+OBJETIVO:
+Crea un sistema de manejo de empleados de una empresa, aplicando la programación orientada a objetos.
+CRITERIOS:
+    * La empresa desea saber el total de empleados
+    * Se debe poder conocer total de empleados de un departamento en particular
+    * Las clases deben estar en archivo separados y deben ser las siguientes:
+       - Se debe de crear la clase de Empleados
+       - Se debe de crear la clase de Empresa
+    * La creación de los objetos debe ser en su propio archivo.

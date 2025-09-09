@@ -1,0 +1,57 @@
+Roadmap de Aprendizaje en Python
+
+🟢 Fase 1 – Consolidación del Lenguaje (Bases sólidas de Python)
+
+    Manejo de excepciones → try / except / finally / raise
+    Manejo de archivos (open, lectura, escritura, binarios, CSV)
+    Uso de with → Context managers para liberar recursos automáticamente
+    Procesar JSON → import json, leer y escribir datos en formato JSON
+    Funciones Lambda y funciones built-in (map, filter, reduce, zip, enumerate)Funciones Lambda y funciones built-in (map, filter, reduce, zip, enumerate)
+    Profundizar en estructuras (sets, dicts, tuplas avanzadas, unpacking, dict comprehensions)
+    Tips & Tricks (slicing avanzado, unpacking *, **, f-strings, operadores útiles)
+
+📌 Meta: sentirte cómodo manipulando cualquier tipo de dato y controlando errores.
+
+🟡 Fase 2 – Herramientas Base para Proyectos
+
+Entornos virtuales → venv, pip, requirements.txt, poetry o conda
+Bases de datos relacionales
+	Conectar Python ↔ MySQL (con mysql.connector o SQLAlchemy)
+	CRUD (Create, Read, Update, Delete) desde Python
+	Queries SQL con filtros, joins, agregaciones
+Manejo de APIs
+	Consumir APIs con requests (GET, POST, headers, JSON)
+	Autenticación con tokens
+Testing → unittest o pytest
+Typing y anotaciones (def suma(a:int, b:int)->int)
+Buenas prácticas (PEP8, logging, docstrings)
+
+📌 Meta: ya podrás hacer proyectos reales (ej. un sistema CRUD con DB o un script que consuma datos de una API).
+
+
+🔵 Fase 3 – Especialización (elige uno o combina ambos)
+
+📊 Camino Data / Ciencia de Datos
+	NumPy (matrices, álgebra lineal, operaciones vectorizadas)
+	Pandas (tablas, DataFrames, limpieza y análisis de datos)
+	Jupyter Notebooks (experimentos, reportes interactivos)
+	Polars (opcional, alternativa rápida a Pandas)
+	Matplotlib / Seaborn (visualización de datos)
+	SQL avanzado para análisis
+
+📌 Meta: Analizar datasets, hacer reportes, gráficos y preparar datos para Machine Learning.
+
+⚙️ Camino Backend / Desarrollo de Software
+	Flask (crear APIs y apps web sencillas)
+	FastAPI (APIs modernas, validación automática con Pydantic)
+	Autenticación y JWT (usuarios y roles en sistemas web)
+	ORMs con SQLAlchemy o Django ORM
+	Docker (opcional) para desplegar proyectos
+	Pruebas unitarias + integración continua
+📌 Meta: Construir aplicaciones web, sistemas CRUD robustos y APIs profesionales.
+
+
+🌟 Nivel Avanzado (opcional en ambos caminos)
+	Programación concurrente (threading, asyncio, multiprocessing)
+	Patrones de diseño en Python (Singleton, Factory, Observer, etc.)
+	Buenas prácticas de arquitectura (MVC, servicios, microservicios)
